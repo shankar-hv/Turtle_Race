@@ -66,4 +66,4 @@ If you like this project, ⭐ the repo and share it with friends!
 
 ---
 
-Do you want me to also **add emojis and badges (like Python version, license, etc.)** at the top of the README to make it look more professional, like open-source projects on GitHub?
+
